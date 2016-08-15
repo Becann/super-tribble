@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Becann/super-tribble.git
+git push -u origin master
